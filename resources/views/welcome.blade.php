@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    SAMMAL CLOTHES
+                    GALGIL CLOTHES
                 </div>
             </div>
         </div>
